@@ -2,17 +2,17 @@
   "version": "1.0",
   "playlists": [
     {
-      "id": "Playlist_1",
+      "id": "4sY1EggNectdU726P1pq6f",
       "name": "🐍 Vibes in The Middle",
       "description": "100% human-made tracks",
-      "url": "spotify://https://open.spotify.com/playlist/4sY1EggNectdU726P1pq6f?si=56d8822ece6d4135",
+      "url": "spotify:playlist:4sY1EggNectdU726P1pq6f",
       "category": "curated"
-    }
+    },
     {
-      "id": "Playlist_2",
+      "id": "75g6QQGP2X52oa18AIwp33",
       "name": "🤯 Mad Beats",
       "description": "100% human-made tracks",
-      "url": "spotify://https://open.spotify.com/playlist/75g6QQGP2X52oa18AIwp33?si=5432ef5b8ca14186",
+      "url": "spotify:playlist:75g6QQGP2X52oa18AIwp33",
       "category": "curated"
     }
   ]

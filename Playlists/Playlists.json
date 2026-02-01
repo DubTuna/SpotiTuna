@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "playlists": [
+    {
+      "id": "Playlist_1",
+      "name": "🐍 Vibes in The Middle",
+      "description": "100% human-made tracks",
+      "url": "spotify://https://open.spotify.com/playlist/4sY1EggNectdU726P1pq6f?si=56d8822ece6d4135",
+      "category": "curated"
+    }
+    {
+      "id": "Playlist_2",
+      "name": "🤯 Mad Beats",
+      "description": "100% human-made tracks",
+      "url": "spotify://https://open.spotify.com/playlist/75g6QQGP2X52oa18AIwp33?si=5432ef5b8ca14186",
+      "category": "curated"
+    }
+  ]
+}

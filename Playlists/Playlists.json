@@ -6,63 +6,73 @@
       "name": "🐍 Vibes in The Middle",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:4sY1EggNectdU726P1pq6f",
-      "category": "Miidle East Electronica | Curated by Dublo"
+      "category": "Middle East Electronica",
+      "curated": "Curated by Dublo"
+	  
     },
     {
       "id": "75g6QQGP2X52oa18AIwp33",
       "name": "🤯 Mad Beats",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:75g6QQGP2X52oa18AIwp33",
-      "category": "HipHop, Grime | Curated by Dublo"
+      "category": "HipHop, Grime",
+	  "curated": "Curated by Dublo"
     },
     {
       "id": "4CagMdbsczqJXdOEHbIfJU",
       "name": "🔅 World Beat Odyssey",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:4CagMdbsczqJXdOEHbIfJU",
-      "category": "World Music | Curated by Dublo"
+      "category": "World Music",
+	  "curated": "Curated by Dublo"
     },
     {
       "id": "1DOYsgy59MLwl8Yfo6xvf5",
       "name": "🔥 The Dubtuna Sound",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:1DOYsgy59MLwl8Yfo6xvf5",
-      "category": "Deep Dubstep | Curated by Dubtuna"
+      "category": "Deep Dubstep",
+	  "curated": "Curated by Dublo"
     },
     {
       "id": "2106cJlE3UxEeT7YKqLk1K",
       "name": "👘 The Drum and the Bass",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:2106cJlE3UxEeT7YKqLk1K",
-      "category": "Drum & Bass | Curated by Dublo"
+      "category": "Drum & Bass",
+	  "curated": "Curated by Dublo"
     },
     {
       "id": "4c2HM4BPd44CYON2URlA1R",
       "name": "🍁 Who am I?",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:4c2HM4BPd44CYON2URlA1R",
-      "category": "Electronica | Curated by Dublo"
+      "category": "Electronica",
+	  "curated": "Curated by Dublo"
     },
     {
       "id": "1VsLnMighpppoYQNqtDPZH",
       "name": "🔥 Reggae Vibes",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:1VsLnMighpppoYQNqtDPZH",
-      "category": "Reggae | Curated by Dublo"
+      "category": "Reggae",
+	  "curated": "Curated by Dublo"
     },
     {
       "id": "1Lth4sxUY9XMd4sxJTDSFT",
       "name": "🔫 HipHop Suitcase",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:1Lth4sxUY9XMd4sxJTDSFT",
-      "category": "HipHop | Curated by Dublo"
+      "category": "HipHop",
+	  "curated": "Curated by Dublo"
     },
     {
       "id": "1rVPRFjQruvA5VUNYn26UW",
       "name": "🎸 Y69 Y79",
       "description": "100% human-made tracks",
       "url": "spotify:playlist:1rVPRFjQruvA5VUNYn26UW",
-      "category": "Rock | Curated by Dublo"
+      "category": "Rock",
+	  "curated": "Curated by Dublo"
     }
   ]
 }
